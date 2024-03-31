@@ -1,0 +1,25 @@
+Terminal commands 
+    touch - creates a new file
+    ls - lists what files are in the folder
+    mkdir "" - creates a folder within the directory
+    cd "" - navigates to inside of the folder
+    cd .. - brings us back one folder
+    git clone "paste URL" - Clones a repository
+    git add * - tells git to get this file (tells git which files we want to track)
+    git commit -m "example message" - commmits your file into git  (creates a version of your new respository), add a message in quotations
+    git push origin main - This will push your repository to Git
+        NOTE: You need to do all 3 of these commands
+    git pull - will sync my repository on my computer to match what is online
+Github and Gitlab
+    Repositories
+        Allows you to keep track of all your versions of your work
+    Gitlab 
+        Where we will store all class assignments
+    Github
+        Where we will do our projects
+Full access token 
+    glpat-eP9xQ3gY_WTS6yzZvG-i
+    Username mbdrag3-gdKQAT
+
+
+

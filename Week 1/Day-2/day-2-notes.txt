@@ -1,0 +1,21 @@
+Syllabus:
+    HTML and HTML Attributes
+    CSS, syntax and Selectors.
+HW is due next thursday 4/4 I believe
+    Fixing a website to fit all kinds of devices
+
+HTML 
+    Text language
+    Describes content - not format
+    <meta name helps fit the page to the device
+    <title>Display as the name in the browser tab</title>
+    Header and section tags are semantic HTML tags
+<img src="../" will help find images in directories above the one that you are in (keep adding ../ to find images even further up)
+<img src="./" will help find images in your current folder "relative path" - very much recommended
+
+CSS
+Class or IDs work similarily but class is for multiple elements so a common style can be applied to multiple elements and IDs would work for unique elements
+# will point to the HTML ID
+. will point to Class
+If you wanted to apply a style to the entire page you can create a class or ID and apply it to the body 
+    You can also use * as a universal selector
